@@ -195,6 +195,7 @@ small{
     }
     .botones{
         justify-content: center;
+        gap: 5px;
     }
 	.boton-encrip,.boton-desencrip{
         width: 45%;
