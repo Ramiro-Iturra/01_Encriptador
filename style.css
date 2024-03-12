@@ -191,6 +191,7 @@ small{
     }
     .encriptacion{
         height: 100%;
+        padding-top: 5%;
     }
     .botones{
         justify-content: center;
